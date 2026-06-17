@@ -28,10 +28,10 @@ function App() {
   const [volume, setVolume] = useState(0.5);
 
   const [profileData, setProfileData] = useState({
-    name: '! NotMystic',
-    tagline: 'DEVELOPER',
+    name: 'VENOME',
+    tagline: 'Neon Void',
     bio: 'Crafting elegant code and building aesthetic digital experiences. Developer & Creator.',
-    avatar: 'https://cdn.discordapp.com/icons/1355239538808848575/f629c7a5a0b472db7cbbf294a8ad732b.webp?size=1024',
+    avatar: 'https://cdn.discordapp.com/avatars/1501138773889781831/a_c0037587393ba194b834ff61ce9d85f3.gif?size=1024',
     banner: 'https://files.catbox.moe/3yic5r.png',
     status: 'online',
     discord: 'https://discord.com/users/1312309380800057355',
